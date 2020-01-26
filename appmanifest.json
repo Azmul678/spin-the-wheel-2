@@ -5,7 +5,7 @@
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "portrait",
-	"background_color": "#ff4c48",
+	"background_color": "#f6bdb8",
 	"icons": [
 		{
 			"src": "icons/icon-16.png",
